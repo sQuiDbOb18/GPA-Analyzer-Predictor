@@ -12,6 +12,12 @@ A Jupyter Notebook app for calculating GPA, CGPA, and simple academic projection
 - Calculates the average grade point needed to reach a target CGPA.
 - Optionally projects the next CGPA using a simple regression trend predictor.
 
+## Presentation
+
+[View the presentation slide](./gpa_analyzer_presentation.pdf)
+
+[View the notebook output (HTML)](./gpa_analyzer.html)
+
 ## Tech Stack
 
 - Python 3.11+
